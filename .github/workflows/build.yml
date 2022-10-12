@@ -20,7 +20,7 @@ env:
   # Used for cache key as well as for downloading the correct Godot version.
   GODOT_BASE_VERSION: 3.5
   GODOT_BASE_VERSION_STATUS: stable
-  GODOT_VERSION_STATUS: custom
+  GODOT_VERSION_STATUS: sg-physics-2d
   GODOT_MONO_BUILD_TAG: release-5299efd # mono-6.12.0.182
   GODOT_MONO_BUILD_REPO: godotengine/godot-mono-builds
 

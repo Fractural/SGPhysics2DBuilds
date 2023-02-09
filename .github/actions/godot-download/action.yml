@@ -16,7 +16,7 @@ runs:
     - name: Download sg-physics
       shell: bash
       run: |
-        git clone https://gitlab.com/snopek-games/sg-physics-2d
+        git clone https://gitlab.com/Atlinx/sg-physics-2d
         cd sg-physics-2d
         git reset --hard ${{ inputs.sg-physics-2d-version }}
 

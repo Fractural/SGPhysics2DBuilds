@@ -4,6 +4,9 @@ inputs:
   version:
     description: Version of Godot source code to download
     default: "3.5-stable"
+  sg-physics-2d-version:
+    description: Version of SGPhysics2D to download
+    default: "HEAD"
 runs:
   using: "composite"
   steps:
